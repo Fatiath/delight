@@ -1,0 +1,18 @@
+Date de monitoring : 
+2023-02-15 21:31:39.671759
+ Le nombre de commits par jour 
+2023-02-09: nombre de commits = 25
+ Le nombre de commits par jour 
+2023-02-10: nombre de commits = 19
+ Le nombre de commits par jour 
+2023-02-13: nombre de commits = 16
+ Le nombre de commits par jour 
+2023-02-11: nombre de commits = 14
+ Le nombre de commits par jour 
+2023-02-15: nombre de commits = 12
+ Le nombre de commits par jour 
+2023-02-14: nombre de commits = 11
+ MOINS DE 2 COMMITS : 
+2023-02-12: nombre de commits = 2
+ MOINS DE 2 COMMITS : 
+2023-02-08: nombre de commits = 1
