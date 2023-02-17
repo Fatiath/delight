@@ -1,1 +1,1 @@
-Getting the pandas-dev/pandas repository information for git's API
+Getting the pandas-dev/pandas repository informations from git's API
